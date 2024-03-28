@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: deenssworld/argocd-app:1.2
+        image: deenssworld/Sample-projects:1.2
         ports:
         - containerPort: 8080
